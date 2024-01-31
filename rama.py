@@ -1,11 +1,3 @@
-!pip install matplotlib
-!pip install Biopython
-!pip install typing
-!pip install math
-!pip install pkg-resources
-!pip install numpy
-!pip install rich
-
 
 ######FETCH
 from Bio.PDB import PDBList
